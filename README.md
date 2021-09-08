@@ -25,3 +25,5 @@ What should you bring with you?
 - Beach clothes
 - Camera
 - Open mind and great mood
+
+More About Me: ![AboutMe](AboutMe.md)
