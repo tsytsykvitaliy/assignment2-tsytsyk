@@ -40,3 +40,13 @@ Here are some Greek foods and drinks that I recommend to try while in Athens, wh
 |Gyros|Bairaktaris Taverna Central|2.70€|
 |Frappe|GC George Cafe|1€|
 |Retsina Wine|Scholarchio|7€|
+
+---
+
+## Quotes I Like
+
+> “It does not matter how slowly you go as long as you do not stop.”  
+> *- Confucius*
+
+> “Our life is what our thoughts make it.”  
+> *- Marcus Aurelius*
