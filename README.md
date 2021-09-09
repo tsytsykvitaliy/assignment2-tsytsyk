@@ -27,3 +27,16 @@ What should you bring with you?
 - Open mind and great mood
 
 More About Me: ![AboutMe](AboutMe.md)
+
+---
+
+## Food and Drinks
+
+Here are some Greek foods and drinks that I recommend to try while in Athens, where to buy them and how much to exprect to pay:
+
+|Item|Location|Price|
+|---|---|---|
+|Baklava|Konstantinidis Pastry|19€/kg|
+|Gyros|Bairaktaris Taverna Central|2.70€|
+|Frappe|GC George Cafe|1€|
+|Retsina Wine|Scholarchio|7€|
